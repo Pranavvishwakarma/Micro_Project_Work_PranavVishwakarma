@@ -51,7 +51,7 @@ If roll number is valid and that roll number is existnig in database
 * **Updation of student details**
   In order to update student details input roll number, and then we can update the student data
   
-  <img src="public_html/Images/update data.pngg">
+  <img src="public_html/Images/update data.png">
   
 
 * **Adding new student data**
