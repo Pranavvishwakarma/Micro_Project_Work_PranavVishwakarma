@@ -1,0 +1,26 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 02-Feb-2024, 9:14:19 pm
+    Author     : Lenovo
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@500&display=swap'); 
+
+.container{
+    margin-top:30px;
+}
+
+.btn-continer{
+    display:flex;
+    justify-content: center;
+    
+}
+
+.btn{
+   margin-left:20px;
+   margin-right:20px;
+}
+
