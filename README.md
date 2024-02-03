@@ -73,7 +73,7 @@ If roll number is valid and that roll number is existnig in database
   Make a folder in your system and clone the project using git bash then open the project in Visual Studio Code or any IDE you prefer.
   ##### Clone the project 
   ```
-  git clone 
+  git clone https://github.com/Pranavvishwakarma/Micro_Project_Work_PranavVishwakarma.git
   ```
   After cloning 
   
